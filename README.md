@@ -17,7 +17,3 @@ Para evitar que possíveis candidatos enviem cvs para vagas já preenchidas, no 
 - [Vagas para Game Designers](https://github.com/chatbotbr/vagas)
 - [Vagas para UI/UX](https://github.com/uxbrasil/vagas)
   
-
-## Licença
-
-[MIT](/LICENSE) &copy;
