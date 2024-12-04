@@ -1,18 +1,10 @@
 # Vagas (Kokku Games)
 
-Espaço para a divulgação de vagas tech em diversas áreas da empresa Kokku Games
+Espaço para a divulgação de vagas tech em diversas áreas da empresa Kokku Games.
+Tanto vagas ativas, quanto banco de talentos
 
 Vagas disponíveis em 
 
-### Cadastrando uma vaga
-
-Abra uma **issue** e, no titulo desta _issue_, coloque o nome da área entre colchetes.
-
-Exemplo: `[São Paulo] Designer/UX na [NOME DA EMPRESA]`
-
-Informe quais _labels_ devemos adicionar, contendo o nível de experiência desejada e a forma de contração.
-
-**Atenção**: Não aceitaremos vagas sem o nome da empresa contratante.
 
 #### Importante
 
